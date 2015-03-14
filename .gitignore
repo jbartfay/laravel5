@@ -1,3 +1,39 @@
+# Laravel
 /bootstrap/compiled.php
+/vendor
 .env.*.php
 .env.php
+.env
+/node_modules
+
+
+# Configuration
+/app/config/local
+/app/config/staging
+/app/config/production
+
+# Composer
+composer.phar
+composer.lock
+
+# OS
+.DS_Store
+.idea/
+Thumbs.db
+vagrant
+.vagrant
+
+# Packages
+_ide_helpers.php
+_ide_helper.php
+
+# Various Stuff
+/ideas
+/public/assets/tmp
+
+# IDE
+.buildpath
+.project
+.settings
+
+
